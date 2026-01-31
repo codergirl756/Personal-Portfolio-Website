@@ -7,7 +7,7 @@ import Projects from "./Components/Projects/Projects";
 
 function App() {
   return (
-    <div className="bg-[#171d32] h-auto w-full overflow-hidden">
+    <div className="bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-[#1B274A] via-[#050608] to-[#000000] h-auto w-full overflow-hidden">
       <Navbar />
       <Home />
       <About />

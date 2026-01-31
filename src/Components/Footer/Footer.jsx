@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <div
       id="Footer"
-      className="flex flex-col md:flex-row justify-around bg-[#465697] text-white p-10 md:p-12 items-center gap-10"
+      className="flex flex-col md:flex-row justify-around bg-slate-950/30 border-t border-white/5 text-white p-10 md:p-12 items-center gap-10 backdrop-blur-md"
     >
       {/* Left Section */}
       <div className="text-center md:text-left">
